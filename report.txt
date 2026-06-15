@@ -1,0 +1,128 @@
+Info: Processing symbol 'D1:LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm'.
+Info: Processing symbol 'R1:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Processing symbol 'D2:LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal'.
+Info: Processing symbol 'D3:LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm'.
+Info: Processing symbol 'R2:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Processing symbol 'R3:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder'.
+Info: Processing symbol 'RV1:Potentiometer_THT:Potentiometer_Bourns_3386W_Horizontal'.
+Info: Processing symbol 'U1:Package_DIP:DIP-8_W7.62mm_SMDSocket_SmallPads'.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'iR_sensor_module.kicad_sch'.
+Updated D1 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net +5V.
+Connected D1 pin 2 to +5V.
+Add net Net-(D1-K).
+Connected D1 pin 1 to Net-(D1-K).
+Updated D1 unit metadata.
+Added D2 (footprint 'LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder to LED.
+Updated D2 symbol association from  to /22cadb6a-1fce-4da3-a014-c298d2ff68a0.
+Updated D2 fields.
+Updated D2 sheetname to '/'.
+Updated D2 sheetfile to 'iR_sensor_module.kicad_sch'.
+Updated D2 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net GND.
+Connected D2 pin 1 to GND.
+Add net Net-(D2-A).
+Connected D2 pin 2 to Net-(D2-A).
+Updated D2 unit metadata.
+Added D3 (footprint 'LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm').
+Changed REF** reference designator to D3.
+Changed D3 value from LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm to D_Photo.
+Updated D3 symbol association from  to /beaa3fee-c660-4fe2-a20c-5a3a6ef9ff63.
+Updated D3 fields.
+Updated D3 sheetname to '/'.
+Updated D3 sheetfile to 'iR_sensor_module.kicad_sch'.
+Add net unconnected-(D3-A-Pad2).
+Connected D3 pin 2 to unconnected-(D3-A-Pad2).
+Connected D3 pin 1 to +5V.
+Updated D3 unit metadata.
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x03_P2.54mm_Horizontal to Conn_01x03_Pin.
+Updated J1 symbol association from  to /e6b3e164-b386-41b9-86bc-477bbd33801b.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'iR_sensor_module.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Add net unconnected-(J1-Pin_3-Pad3).
+Connected J1 pin 3 to unconnected-(J1-Pin_3-Pad3).
+Connected J1 pin 2 to GND.
+Connected J1 pin 1 to +5V.
+Updated J1 unit metadata.
+Added R1 (footprint 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Changed REF** reference designator to R1.
+Changed R1 value from R_1206_3216Metric_Pad1.30x1.75mm_HandSolder to 100.
+Updated R1 symbol association from  to /1de44c9e-058c-4f8e-8524-889f685b74e3.
+Updated R1 fields.
+Updated R1 sheetname to '/'.
+Updated R1 sheetfile to 'iR_sensor_module.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Connected R1 pin 1 to Net-(D1-K).
+Connected R1 pin 2 to GND.
+Updated R1 unit metadata.
+Added D1 (footprint 'LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm').
+Added R2 (footprint 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Changed REF** reference designator to R2.
+Changed R2 value from R_1206_3216Metric_Pad1.30x1.75mm_HandSolder to 10k.
+Updated R2 symbol association from  to /5494862e-d066-4166-a57f-d1ed037b05f5.
+Updated R2 fields.
+Updated R2 sheetname to '/'.
+Updated R2 sheetfile to 'iR_sensor_module.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Connected R2 pin 2 to GND.
+Add net unconnected-(R2-Pad1).
+Connected R2 pin 1 to unconnected-(R2-Pad1).
+Updated R2 unit metadata.
+Changed REF** reference designator to D1.
+Added R3 (footprint 'Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder').
+Changed REF** reference designator to R3.
+Changed R3 value from R_1206_3216Metric_Pad1.30x1.75mm_HandSolder to 330.
+Updated R3 symbol association from  to /d6c44725-1c33-4b70-9f5a-9793802b340a.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'iR_sensor_module.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Add net Net-(R3-Pad1).
+Connected R3 pin 1 to Net-(R3-Pad1).
+Connected R3 pin 2 to Net-(D2-A).
+Updated R3 unit metadata.
+Changed D1 value from LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm to LED.
+Added RV1 (footprint 'Potentiometer_THT:Potentiometer_Bourns_3386W_Horizontal').
+Changed REF** reference designator to RV1.
+Changed RV1 value from Potentiometer_Bourns_3386W_Horizontal to 10k.
+Updated RV1 symbol association from  to /bb8fb530-3c7c-4abf-b026-6f97eba94d35.
+Updated RV1 fields.
+Updated RV1 sheetname to '/'.
+Updated RV1 sheetfile to 'iR_sensor_module.kicad_sch'.
+Updated RV1 footprint filters to 'Potentiometer*'.
+Add net Net-(U1A--).
+Connected RV1 pin 2 to Net-(U1A--).
+Connected RV1 pin 1 to +5V.
+Connected RV1 pin 3 to GND.
+Updated RV1 unit metadata.
+Updated D1 symbol association from  to /4caf29d4-ebcf-468c-b1fb-2a897b52fd3b.
+Added U1 (footprint 'Package_DIP:DIP-8_W7.62mm_SMDSocket_SmallPads').
+Changed REF** reference designator to U1.
+Changed U1 value from DIP-8_W7.62mm_SMDSocket_SmallPads to LM358.
+Updated U1 symbol association from  to /cd1e55d0-e446-4abc-b874-2a39f6106a02.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'iR_sensor_module.kicad_sch'.
+Updated U1 footprint filters to 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*'.
+Connected U1 pin 8 to +5V.
+Connected U1 pin 4 to GND.
+Add net unconnected-(U1A-+-Pad3).
+Connected U1 pin 3 to unconnected-(U1A-+-Pad3).
+Connected U1 pin 2 to Net-(U1A--).
+Connected U1 pin 1 to Net-(R3-Pad1).
+Updated U1 unit metadata.
+Warning: No net found for component U1 pad 5 (no pin 5 in symbol).
+Warning: No net found for component U1 pad 6 (no pin 6 in symbol).
+Warning: No net found for component U1 pad 7 (no pin 7 in symbol).
+
+
+Info: Total warnings: 3, errors: 0.
