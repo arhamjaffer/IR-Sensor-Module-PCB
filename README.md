@@ -43,54 +43,38 @@ The PCB was designed with a focus on compact layout, reliable signal routing, an
 
 ## 📷 Project Images
 
-### Circuit Schematic
+<h2 align="center">📷 Project Gallery</h2>
 
-![Schematic](https://github.com/arhamjaffer/IR-Sensor-Module-PCB/blob/main/Schematic.png)
+<h3 align="center">Circuit Schematic</h3>
 
----
+<p align="center">
+<img src="Schematic.png" width="850">
+</p>
 
-### PCB Layout
+<h3 align="center">PCB Layout</h3>
 
-![PCB Layout](https://github.com/arhamjaffer/IR-Sensor-Module-PCB/blob/main/PCB_Layout.png)
+<p align="center">
+<img src="PCB_Layout.png" width="850">
+</p>
 
----
+<h3 align="center">3D PCB Views</h3>
 
-### 3D Front View
+<table align="center">
+<tr>
+<td align="center">
+<img src="PCB_3D_Front.png" width="450"><br>
+<b>Front View</b>
+</td>
 
-![3D Front](https://github.com/arhamjaffer/IR-Sensor-Module-PCB/blob/main/PCB_3D_Front.png)
+<td align="center">
+<img src="PCB_3D_Back.png" width="450"><br>
+<b>Back View</b>
+</td>
+</tr>
+</table>
 
----
-
-### 3D Rear View
-
-![3D Rear](https://github.com/arhamjaffer/IR-Sensor-Module-PCB/blob/main/PCB_3D_Back.png)
-
----
-
-## 📂 Repository Structure
-
-```text
-IR-Sensor-Module-PCB
-│
-├── README.md
-├── Images
-│   ├── Schematic.png
-│   ├── PCB_Layout.png
-│   ├── PCB_3D_Front.png
-│   └── PCB_3D_Back.png
-│
-├── KiCad_Files
-│   ├── IR_Sensor_Module.kicad_sch
-│   ├── IR_Sensor_Module.kicad_pcb
-│   └── IR_Sensor_Module.kicad_pro
-│
-├── Gerber_Files
-│
-└── BOM
-```
 
 ---
-
 ## 🎯 Applications
 
 - Obstacle Detection
