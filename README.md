@@ -45,25 +45,25 @@ The PCB was designed with a focus on compact layout, reliable signal routing, an
 
 ### Circuit Schematic
 
-![Schematic](Images/Schematic.png)
+![Schematic](https://github.com/arhamjaffer/IR-Sensor-Module-PCB/blob/main/Schematic.png)
 
 ---
 
 ### PCB Layout
 
-![PCB Layout](Images/PCB_Layout.png)
+![PCB Layout](https://github.com/arhamjaffer/IR-Sensor-Module-PCB/blob/main/PCB_Layout.png)
 
 ---
 
 ### 3D Front View
 
-![3D Front](Images/PCB_3D_Front.png)
+![3D Front](https://github.com/arhamjaffer/IR-Sensor-Module-PCB/blob/main/PCB_3D_Front.png)
 
 ---
 
 ### 3D Rear View
 
-![3D Rear](Images/PCB_3D_Back.png)
+![3D Rear](https://github.com/arhamjaffer/IR-Sensor-Module-PCB/blob/main/PCB_3D_Back.png)
 
 ---
 
